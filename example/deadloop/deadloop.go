@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/mosn/holmes"
+	"github.com/ttbug/holmes"
 )
 
 func init() {

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mosn/holmes"
+	"github.com/ttbug/holmes"
 )
 
 func init() {

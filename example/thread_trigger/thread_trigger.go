@@ -18,7 +18,7 @@ import (
 
 	_ "net/http/pprof"
 
-	"github.com/mosn/holmes"
+	"github.com/ttbug/holmes"
 )
 
 func init() {
